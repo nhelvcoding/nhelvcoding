@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello
+I am a person who likes to make games here on github.
+I also like to draw aswell.
+# I code Javascript And HTML
 
 <!--
 **nhelvcoding/nhelvcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
